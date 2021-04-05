@@ -1,0 +1,69 @@
+{
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 9695,
+            "name": "��������.������ �������� 3,2% 930�",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3605407.jpg",
+            "plu": 3605407,
+            "promo": {
+                "id": 1163236940,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 1
+            },
+            "current_prices": {
+                "price_reg__min": 66.75,
+                "price_promo__min": 59.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 9738,
+            "name": "������ ���� � �������, ���������������������, 3,2%, 970 ��",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3694630.jpg",
+            "plu": 3694630,
+            "promo": {
+                "id": 1163236940,
+                "date_begin": "2021-02-28",
+                "date_end": "2021-04-03",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 1
+            },
+            "current_prices": {
+                "price_reg__min": 69.99,
+                "price_promo__min": 64.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 131245,
+            "name": "����� ������ ��/����.�/� �� 3� 3,2%925��",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3507208.jpg",
+            "plu": 3507208,
+            "promo": {
+                "id": 1170328688,
+                "date_begin": "2021-04-01",
+                "date_end": "2021-05-04",
+                "type": "",
+                "description": "",
+                "kind": "Z011",
+                "expired_at": 32
+            },
+            "current_prices": {
+                "price_reg__min": 73.05,
+                "price_promo__min": 69.99
+            },
+            "store_name": null
+        }
+    ]
+}
